@@ -1,0 +1,42 @@
+.partie_1{
+    background-image: url("../img/home.jpg");
+    background-size: cover;
+    height: 1300px;
+} 
+
+.alignement{
+    height: 100vh;
+} 
+
+.partie_2{
+    height: 1000px;
+    
+} 
+
+.carre{
+    justify-content: space-around;
+   
+} 
+
+.centrer{
+    padding:90px 75px ;
+} 
+
+.partie_3{
+    height: 700px;
+    background-image: url("../img/home.jpg");
+    background-size: cover;
+    font-size: 150%;
+} 
+
+.partie_3 h1{
+    font-size: 60px;
+} 
+
+.alignement_2{
+    height: 100%;
+} 
+
+.partie_4{
+    height: 1000px;
+} 
